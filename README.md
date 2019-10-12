@@ -29,7 +29,7 @@ There is a correlation between gentrification levels and the number of coffee sh
 		
 +	Use Javascript to clean and format our dataset(s). 
 +	Created dascboard for describing the data exploration and cleanup process.
-+	Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in our presentation. 
+        presentation. 
 +	Used API data for pertinent research questions. 
 +	Depicted data and a short description of our findings and any relevant plots.
 		
