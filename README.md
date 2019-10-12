@@ -20,7 +20,7 @@ Gentrification in the City of Los Angeles studies prove that prove thatorrelatio
 | :---         		|     :---:      							|
 |  Github      		| HTML, CSS, AWS, Javascript, D3 							|
 |  API's       		| 							|
-|  Python Libraries   	|    		|
+|  Jvascript Libraries   	|    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| [http://lagentrificcino.tk/](http://lagentrificcino.tk/) 	|
 
