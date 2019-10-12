@@ -11,6 +11,7 @@ There is a correlation between gentrification levels and the number of coffee sh
 # HYPOTHESIS TO EVALUATE:
 
 + **Hypothesis: the number of coffee shops around the city of los angeles is a pulse indicator of gentrification in the City**
++ **Gentrification is failing Los Angeles**
 
 
 
