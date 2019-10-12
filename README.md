@@ -1,8 +1,8 @@
-# **CRIME ANALYSIS  REPORT** ![Tortoise](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZmTYuMry87mWB_fe7L9BFvfn8_cNGfKUg8-Ykc9SGXgKhJ63)
+# **GENTRIFICATION IS THE NEW LITMUS TEST IN LOS ANGELES!   REPORT** ![Tortoise](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZmTYuMry87mWB_fe7L9BFvfn8_cNGfKUg8-Ykc9SGXgKhJ63)
 
 							by
 							
-					   Ivy Chen, Jeff Stevens, Ed Gomez
+	                   Ed Gomez, Christopher Dimmock, Priyanka Grover, Jose Gallegos
 
 # PROJECT DESCRIPTION:
 
