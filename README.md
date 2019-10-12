@@ -6,11 +6,11 @@
 
 # PROJECT DESCRIPTION:
 
-Gentrification in the City of Los Angeles studies prove that prove thatorrelation of residential burglaries which occur at a specific days and months of year and how they compare to other days and months of the year. 
+There is a correlation between gentrification levels and the number of coffee shops in Los Angeles neighborhoods.
 
 # HYPOTHESIS TO EVALUATE:
 
-+ **Hypothesis: the number of coffee shops around the city of los angeles is a pulse indicator of gentrification in the City of Los angeles**
++ **Hypothesis: the number of coffee shops around the city of los angeles is a pulse indicator of gentrification in the City**
 + **Hypothesis:**
 
 
@@ -18,8 +18,8 @@ Gentrification in the City of Los Angeles studies prove that prove thatorrelatio
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, AWS, Javascript, D3 							|
-|  API's       		| 							|
+|  Github      		| HTML, CSS, AWS, Javascript, D3, Leaflet 							|
+|  API's       		| Yelp, Los Angeles Geo Hub							|
 |  Jvascript Libraries   	|    		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| [http://lagentrificcino.tk/](http://lagentrificcino.tk/) 	|
