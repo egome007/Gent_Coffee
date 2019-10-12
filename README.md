@@ -18,9 +18,9 @@ There is a correlation between gentrification levels and the number of coffee sh
 
 | Technology   		| Description    							|
 | :---         		|     :---:      							|
-|  Github      		| HTML, CSS, AWS, Javascript, D3, Leaflet, Mongo DB							|
+|  Github      		| HTML, CSS, AWS, Mongo DB							|
 |  API's       		| Yelp, Los Angeles Geo Hub, 							|
-|  Jvascript Libraries   	|    		|
+|  Jvascript Libraries   	| Javascript, D3, Leaflet   		|
 |  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| [http://lagentrificcino.tk/](http://lagentrificcino.tk/) 	|
 
